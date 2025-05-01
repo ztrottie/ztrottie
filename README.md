@@ -25,11 +25,6 @@ I'm a passionate **IT student** currently studying at **42 Québec**, with a str
 
 ### 📚 Projects
 
-##  42 Projects
-
--   **[FDF]** : FDF is a small 3d program coded at 42 Quebec in C using the a 3D librarie called MLX42!
-![FDF](imgs/42.gif)
-![FDF](imgs/julia.gif)
 
 ---
 
